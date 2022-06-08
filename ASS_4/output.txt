@@ -1,0 +1,6 @@
+MOV R1, 3 
+DIV R2, 4 
+ADD R6, 5 
+SUB R7, 7 
+MOV R2, 1 
+MOV R3, 2 
